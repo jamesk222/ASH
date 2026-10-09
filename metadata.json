@@ -1,0 +1,6 @@
+{
+  "name": "ASH Global Commerce",
+  "description": "A premier multi-category U.S. online retailer featuring trending styles, everyday essentials, beauty, home, tech accessories, and smart lifestyle products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
